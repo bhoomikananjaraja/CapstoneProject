@@ -41,5 +41,6 @@
         weights_path = './model_finalweights/model_weights_xom.h5'
 
 Finally , run the code using Pycharm/VSCode, which prompts the user to enter the dataset name.
-Enter dataset name (AAPL, JPM, or XOM): AAPL
+Enter dataset name (AAPL, JPM, or XOM): AAPL .
+
 Post this the code generates relevant graphs and model predictions accordingly.
